@@ -1,0 +1,22 @@
+QUE ES GITHUB DESKTOP?
+
+GitHub Desktop es una aplicación de escritorio que facilita el uso de Git y el control de versiones
+en GitHub. Es una herramienta gratuita que permite a los desarrolladores manejar sus repositorios
+
+de GitHub directamente desde su computadora de escritorio, sin necesidad de usar la línea de
+comandos.
+
+Entre las funciones de GitHub Desktop se encuentran:
+
+ Crear y clonar repositorios de GitHub.
+ Ver los cambios realizados en los archivos y hacer seguimiento de los cambios.
+ Hacer commits y push de los cambios al repositorio de GitHub.
+ Crear y trabajar en ramas de manera sencilla.
+ Resolver conflictos de manera intuitiva.
+ Hacer pull y merge de cambios de otros colaboradores.
+ Visualizar el historial de cambios del repositorio.
+
+GitHub Desktop es una herramienta muy útil para aquellos que están empezando a usar Git y
+GitHub, así como para aquellos que prefieren una interfaz gráfica para gestionar sus repositorios
+en lugar de usar la línea de comandos. Además, permite trabajar de manera más eficiente y
+colaborativa en proyectos con otros desarrolladores.
